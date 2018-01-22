@@ -34,8 +34,6 @@ gem "sprockets"
 # Use jquery as the JavaScript library
 gem "jquery-rails"
 
-gem "passenger"
-
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
